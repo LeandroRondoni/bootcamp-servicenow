@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1257114_ginventa.analistas_role" name="x_1257114_ginventa.analistas_role">65f680e4478735105dff52e1d16d4339</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-08 01:12:16</sys_created_on>
+        <sys_id>a5f680e4478735105dff52e1d16d433a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>65f680e4478735105dff52e1d16d4339</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1257114_ginventa">f1e2bdbb47b671105dff52e1d16d435d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">f1e2bdbb47b671105dff52e1d16d435d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a5f680e4478735105dff52e1d16d433a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-08 01:12:16</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
